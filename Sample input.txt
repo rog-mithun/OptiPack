@@ -1,0 +1,29 @@
+{
+    "shipments": [
+        {
+            "name": "Shoe", "length": 5.0, "height": 6.0, "width": 5.0,"weight": 8.0,  "quantity": 5, "rotation_type": "vertical"
+        },
+        {
+            "name": "Tv","length": 20.0,"height": 15.0, "width": 10.0, "weight": 100.0, "quantity": 1, "rotation_type": "horizontal"
+        }
+    ],
+    
+    "bins": [
+        {
+            "name": "Europallet",
+            "length": 80.0,
+            "height": 20.0,
+            "width": 120.0,
+            "max_weight": 105.0,
+            "quantity": 1
+        },
+        {
+            "name": "Container",
+            "length": 100.0,
+            "height": 100.0,
+            "width": 100.0,
+            "max_weight": 35.0,
+            "quantity":1
+        }
+    ]
+}

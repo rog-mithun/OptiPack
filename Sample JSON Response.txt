@@ -1,0 +1,51 @@
+{
+    "bins": [
+        {
+            "current_weight": 100,
+            "items": [
+                {
+                    "name": "Tv",
+                    "quantity": 1,
+                    "rotation_type": "horizontal"
+                }
+            ],
+            "max_weight": 105,
+            "name": "Europallet",
+            "quantity": 1
+        },
+        {
+            "current_weight": 32,
+            "items": [
+                {
+                    "name": "Shoe",
+                    "quantity": 1,
+                    "rotation_type": "vertical"
+                },
+                {
+                    "name": "Shoe",
+                    "quantity": 1,
+                    "rotation_type": "vertical"
+                },
+                {
+                    "name": "Shoe",
+                    "quantity": 1,
+                    "rotation_type": "vertical"
+                },
+                {
+                    "name": "Shoe",
+                    "quantity": 1,
+                    "rotation_type": "vertical"
+                }
+            ],
+            "max_weight": 35,
+            "name": "Container",
+            "quantity": 1
+        }
+    ],
+    "unfitted_items": [
+        {
+            "name": "Shoe",
+            "quantity": 1
+        }
+    ]
+}
