@@ -61,15 +61,15 @@ Useful for:
 
 ## 🧪 Sample Input
 
-- ![Input](Sample input.txt)
+- ![Input](input.txt)
 
 ---
 
 ## 📂 Demo & Output Samples
 
 - ![Postman API](Postman.png)
-- ![JSON Response](Sample JSON Response.txt)
-- ![Output Visuals](Sample output.png)
+- ![JSON Response](JSONResponse.txt)
+- ![Output Visuals](output.png)
 
 ---
 
