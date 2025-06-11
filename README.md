@@ -61,14 +61,14 @@ Useful for:
 
 ## 🧪 Sample Input
 
-- ![Input](input.txt)
+- [Input](input.txt)
 
 ---
 
 ## 📂 Demo & Output Samples
 
+- [JSON Response](JSONResponse.txt)
 - ![Postman API](Postman.png)
-- ![JSON Response](JSONResponse.txt)
 - ![Output Visuals](output.png)
 
 ---
