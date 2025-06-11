@@ -1,6 +1,6 @@
 # 📦 OptiPack
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 **OptiPack** is a Python-powered tool designed for intelligent 3D bin packing. It takes shipment and container specifications as input and uses optimization logic to pack them efficiently. It also generates **JSON outputs** and **3D visualizations**, and comes with a **REST API via Postman** for integration testing.
 
@@ -74,4 +74,4 @@ Useful for:
 
 ## 📖 License
 
-This project is licensed under the [Apache 2.0 License](LICENSE) © 2025 Mithunsankar S.
+This project is licensed under the [Apache License 2.0](LICENSE) © 2025 Mithunsankar S.
